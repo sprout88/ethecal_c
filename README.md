@@ -1,1 +1,1 @@
-# ethecal_c
+# ethical_c
