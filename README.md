@@ -1,1 +1,1 @@
-# ethical_c
+# Sentinel
